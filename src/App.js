@@ -8,7 +8,7 @@ import Project from './routes/Project';
 
 function App() {
   return (
-    <Router > 
+    <Router basename="/portfolio"> {/* Update with your actual subdirectory */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/project" element={<Project />} />
