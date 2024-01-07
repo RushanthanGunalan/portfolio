@@ -1,8 +1,8 @@
 import React from "react";
 import ExperienceCard from "../components/Experience/ExperienceCard";
-import Footer from "../components/Footer";
+import Footer from "../components/Footer/Footer";
 import HeroImg2 from "../components/HeroImg2";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/Navbar/Navbar";
 
 const Experience = () => {
   return (

@@ -1,5 +1,5 @@
 import "./AboutCard.css";
-import Profile from "../assets/Profile.jpg"
+import Profile from "../../assets/Profile.jpg"
 import { FaForward } from "react-icons/fa";
 import React from "react";
 

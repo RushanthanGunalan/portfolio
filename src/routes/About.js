@@ -1,7 +1,7 @@
-import AboutCard from "../components/AboutCard";
-import Footer from "../components/Footer";
+import AboutCard from "../components/About/AboutCard";
+import Footer from "../components/Footer/Footer";
 import HeroImg2 from "../components/HeroImg2";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/Navbar/Navbar";
 
 
 const About = () => {

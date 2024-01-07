@@ -1,9 +1,10 @@
 
-import Navbar from '../components/Navbar'
+import Navbar from '../components/Navbar/Navbar'
 import HeroImg2 from '../components/HeroImg2'
-import Footer from '../components/Footer'
-import ProjectWork from '../components/ProjectWork'
+import Footer from '../components/Footer/Footer'
+
 import React from 'react'
+import ProjectWork from '../components/Project/ProjectWork'
 
 const Project = () => {
   return (

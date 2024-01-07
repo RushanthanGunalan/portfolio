@@ -1,4 +1,4 @@
-import Coding from "../assets/Coding.jpg";
+import Coding from "../../assets/Coding.jpg";
 
 
 const ProjectCardData = [
