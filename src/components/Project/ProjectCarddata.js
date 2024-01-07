@@ -1,16 +1,15 @@
-import Coding from "../../assets/Coding.jpg";
+import ProjectIcon from "../../assets/ProjectIcon.jpg";
 
 
 const ProjectCardData = [
     {
-        imgsrc: Coding,
-        title: "Project Website Design 1",
-        text: "The Smart Home Automation System is a cutting-edge " +
-          "project designed to enhance the convenience and efficiency " +
-          "of daily living. This system integrates various technologies " +
-          "to create a seamless and intelligent environment within a home. " +
-          "The primary goal is to provide users with enhanced control over their " +
-          "home devices, promoting energy efficiency, security, and comfort.",
+        imgsrc: ProjectIcon,
+        title: "Multi-Tool (Mobile Application)",
+        text: "An all-in-one mobile app with tools like camera, image reader, calculator, chatbot, and stopwatch." +
+          "User-friendly design for easy navigation and clear tool categorization. " +
+          "Seamless integration for convenient use." +
+          "Innovative features like advanced image reading and chatbot interactions. " +
+          "Focuses on providing enhanced control over general mobile tools in one app.",
         view: "",
       }
    
