@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5d130534.css",
-    "main.js": "/portfolio/static/js/main.f9162d64.js",
+    "main.css": "/portfolio/static/css/main.b188b7df.css",
+    "main.js": "/portfolio/static/js/main.32076551.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/Program.jpg": "/portfolio/static/media/Program.1be7ae0f28e7c4ef779d.jpg",
     "static/media/Profile.jpg": "/portfolio/static/media/Profile.6db60bf783c82a08e17c.jpg",
+    "static/media/ProjectIcon.jpg": "/portfolio/static/media/ProjectIcon.5709687df98ae7238149.jpg",
+    "static/media/DashBoard03.jpg": "/portfolio/static/media/DashBoard03.6abc6e52fafd7faff4be.jpg",
+    "static/media/DashBoard.jpg": "/portfolio/static/media/DashBoard.a54c52e8ad20e9d4c397.jpg",
     "static/media/Coding.jpg": "/portfolio/static/media/Coding.0023ca7254ff3119d753.jpg",
+    "static/media/DashBoard02.jpg": "/portfolio/static/media/DashBoard02.97623bd918eaa4c23424.jpg",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
-    "main.5d130534.css.map": "/portfolio/static/css/main.5d130534.css.map",
-    "main.f9162d64.js.map": "/portfolio/static/js/main.f9162d64.js.map",
+    "main.b188b7df.css.map": "/portfolio/static/css/main.b188b7df.css.map",
+    "main.32076551.js.map": "/portfolio/static/js/main.32076551.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d130534.css",
-    "static/js/main.f9162d64.js"
+    "static/css/main.b188b7df.css",
+    "static/js/main.32076551.js"
   ]
 }
