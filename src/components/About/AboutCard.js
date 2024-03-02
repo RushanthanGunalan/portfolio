@@ -22,7 +22,7 @@ const AboutCard = () => {
                                 <FaForward/>
                                 <h1 className="h1">Work Experience</h1>
                                 <p>
-                                    8+ Months Experience
+                                    1+ Year Experience
                                 </p>
                             </article>
                             <article className="about-card">
