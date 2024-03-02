@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b188b7df.css",
-    "main.js": "/portfolio/static/js/main.32076551.js",
+    "main.css": "/portfolio/static/css/main.e7fbf16a.css",
+    "main.js": "/portfolio/static/js/main.b665f0df.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/Program.jpg": "/portfolio/static/media/Program.1be7ae0f28e7c4ef779d.jpg",
     "static/media/Profile.jpg": "/portfolio/static/media/Profile.6db60bf783c82a08e17c.jpg",
@@ -10,17 +10,22 @@
     "static/media/DashBoard.jpg": "/portfolio/static/media/DashBoard.a54c52e8ad20e9d4c397.jpg",
     "static/media/Coding.jpg": "/portfolio/static/media/Coding.0023ca7254ff3119d753.jpg",
     "static/media/DashBoard02.jpg": "/portfolio/static/media/DashBoard02.97623bd918eaa4c23424.jpg",
+    "static/media/CSS.png": "/portfolio/static/media/CSS.463e319bad8e0edf1ef7.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/TA.png": "/portfolio/static/media/TA.af108db04a54d784da9b.png",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
-    "main.b188b7df.css.map": "/portfolio/static/css/main.b188b7df.css.map",
-    "main.32076551.js.map": "/portfolio/static/js/main.32076551.js.map",
+    "main.e7fbf16a.css.map": "/portfolio/static/css/main.e7fbf16a.css.map",
+    "main.b665f0df.js.map": "/portfolio/static/js/main.b665f0df.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b188b7df.css",
-    "static/js/main.32076551.js"
+    "static/css/main.e7fbf16a.css",
+    "static/js/main.b665f0df.js"
   ]
 }
