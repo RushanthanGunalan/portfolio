@@ -3,7 +3,6 @@
   padding: 50px 0;
   background-color: black;
 
-
   .footer-container {
     max-width: 1500px;
     margin: auto;
@@ -29,7 +28,7 @@
 
         .description {
           line-height: 1.5; 
-          
+
           p {
             margin: 0;
           }
@@ -38,9 +37,10 @@
     }
 
     .right {
-     .p{
-      text-align: left
-    }
+      .p {
+        text-align: left;
+        padding-left: calc(16px - 1rem); /* 20px less padding */
+      }
     }
   }
 }
