@@ -47,7 +47,7 @@ const experienceData = [
   },
   {
     title: "Binary Technologies - Associate Software Developer",
-    servicePeriod: "September 2023 - Present", // Add the service period
+    servicePeriod: "September 2023 - March 2024", // Add the service period
     text: (
       <ul style={{ marginRight: 40 }}>
         <li>
