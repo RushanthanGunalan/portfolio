@@ -3,7 +3,6 @@ import Coding from "../assets/Coding.jpg";
 import { Link } from "react-router-dom";
 import React from "react";
 
-
 const HeroImg = () => {
   return (
     <div className="hero">
@@ -17,10 +16,13 @@ const HeroImg = () => {
           <Link to="/project" className="btn">
             Project
           </Link>
-          <a href={process.env.PUBLIC_URL + '/G.Rushanthan.pdf'} className="btn" target="_blank" >
+          <a
+            href={process.env.PUBLIC_URL + "/G.Rushanthan CV.pdf"}
+            className="btn"
+            target="_blank"
+          >
             Download CV
           </a>
-
         </div>
       </div>
     </div>
